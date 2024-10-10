@@ -24,7 +24,6 @@ This is a full-stack e-commerce web application built with React.js, Vite on the
 - **Spring Boot** for REST API
 - **Spring Data JPA** for database interactions
 - **PostgreSQL** as the relational database
-- **JWT** for authentication and authorization
 - **Lombok** for reducing boilerplate code
 
 ### Other Tools
