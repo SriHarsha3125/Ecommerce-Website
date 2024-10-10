@@ -8,7 +8,7 @@ This is a full-stack e-commerce web application built with React.js, Vite on the
 - Product Search
 - Shopping Cart
 - Add Products
-- Checkout and Payment Integration
+- Checkout 
 
 
 ## Tech Stack
